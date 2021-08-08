@@ -9,9 +9,9 @@ I am an ıntern at **StajOkulu** Internship Programme. I learn new things thanks
 
 ### Contact me :
 <p>
-  <a href="mailto:ayseyalcinkaya99@gmail.com"><img width="25px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
-  <a href="https://www.linkedin.com/in/ayse-yalcinkaya/"><img width="25px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-  <a href="https://www.instagram.com/ayseyykaya/"><img width="25px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+  <a href="mailto:ayseyalcinkaya99@gmail.com" target="_blank"><img width="25px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+  <a href="https://www.linkedin.com/in/ayse-yalcinkaya/" target="_blank"><img width="25px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+  <a href="https://www.instagram.com/ayseyykaya/" target="_blank"><img width="25px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 </p>
 <br>
 <br>

@@ -5,7 +5,7 @@
 ## Hi there 👋
 
 I am computer engineering student 👩‍💻 at **Karadeniz Technical University**. I am here to share my studies, projects and some notes which are I've taken :nerd_face:. I study to learn new technologies and programming languages.. <br>
-I am an ıntern at **StajOkulu** Internship Programme. I learn new things thanks to this programme and I want to improve my programming skills 💻. <br>
+I am an ıntern at **StajOkulu** Internship Program. I learn new things thanks to this program and I want to improve my programming skills 💻. <br>
 
 ### Contact me :
 <p>

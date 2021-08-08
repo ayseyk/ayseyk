@@ -1,4 +1,8 @@
 ### Hi there 👋
+I am computer engineering student 👩‍💻 at Karadeniz Technical Universit. I am here to share my studies, projects and some notes which are I've taken :nerd_face:. I study to learn new technologies and programming languages.. <br>
+I am an ıntern at StajOkulu Internship Programme. I learn new things thanks to this programme and I want to improve my programming skills 💻. 
+
+<h4>I want to learn new things and study more..</h4>
 
 <!--
 **ayseyk/ayseyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

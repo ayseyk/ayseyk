@@ -27,7 +27,11 @@ I am an ıntern at **StajOkulu** Internship Program. I learn new things thanks t
 <p align="center">I want to learn new things and study more.. :octocat:</p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ayseyk&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p><br>
 
+<h4 align="right">Visitor's count :eyes:</h4>
+<p align="right"><img src="https://profile-counter.glitch.me/{ayseyk}/count.svg" alt="ayseyk" :: Visitor's Count" /></p>
+  
 <img alt="ViewCount" src="https://views.whatilearened.today/views/github/ayseyk/ayseyk.svg" />
+
 
 
 <!--
@@ -48,11 +52,6 @@ I am an ıntern at **StajOkulu** Internship Program. I learn new things thanks t
 
 <!--
 **ayseyk/ayseyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{ayseyk}/count.svg" alt="ayseyk" :: Visitor's Count" /></p>
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

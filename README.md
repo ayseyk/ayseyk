@@ -12,15 +12,17 @@ I am an ıntern at **StajOkulu** Internship Program. I learn new things thanks t
   <a href="mailto:ayseyalcinkaya99@gmail.com" target="_blank"><img width="25px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
   <a href="https://www.linkedin.com/in/ayse-yalcinkaya/" target="_blank"><img width="25px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
   <a href="https://www.instagram.com/ayseyykaya/" target="_blank"><img width="25px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-</p>
-<br>
-<br>
+</p> <br> <br>
 
 <p align="right">I want to learn new things and study more.. :octocat:</p>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayseyk&layout=compact" alt="ayseyk" />   
 </p>
+
+<br>
+<img alt="ViewCount" src="https://views.whatilearened.today/views/github/ayseyk/ayseyk.svg" />
+
 
 <!--
 ## Languages and tools
@@ -33,19 +35,17 @@ I am an ıntern at **StajOkulu** Internship Program. I learn new things thanks t
 </p>
 -->
 
-
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayseyk)](https://github.com/ayseyk/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayseyk)](https://github.com/ayseyk/github-readme-stats)
-
-<a href="https://www.linkedin.com/in/ayse-yalcinkaya/" target="_blank">LinkedIn</a>
 -->
-
-
-
 
 <!--
 **ayseyk/ayseyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{ayseyk}/count.svg" alt="ayseyk" :: Visitor's Count" /></p>
+
 
 Here are some ideas to get you started:
 

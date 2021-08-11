@@ -3,24 +3,30 @@
 </p>
 
 ## Hi there 👋
-
 I am computer engineering student 👩‍💻 at **Karadeniz Technical University**. I am here to share my studies, projects and some notes which are I've taken :nerd_face:. I study to learn new technologies and programming languages.. <br>
 I am an ıntern at **StajOkulu** Internship Program. I learn new things thanks to this program and I want to improve my programming skills 💻. <br>
 
+### Languages:
+<p align="left">
+  📌<b>C, C++, JAVA, HTML, CSS, SQL </b> <br><br>
+➡I' m studying to improve my mobile and web development skills 🐱‍💻.
+</p>
+
 ### Contact me :
-<p>
+<p align="center">
   <a href="mailto:ayseyalcinkaya99@gmail.com" target="_blank"><img width="25px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
   <a href="https://www.linkedin.com/in/ayse-yalcinkaya/" target="_blank"><img width="25px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
   <a href="https://www.instagram.com/ayseyykaya/" target="_blank"><img width="25px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-</p> <br> <br>
+</p> <br><br>
 
-<p align="right">I want to learn new things and study more.. :octocat:</p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayseyk&layout=compact" alt="ayseyk" />   
 </p>
 
-<br>
+<p align="center">I want to learn new things and study more.. :octocat:</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ayseyk&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p><br>
+
 <img alt="ViewCount" src="https://views.whatilearened.today/views/github/ayseyk/ayseyk.svg" />
 
 

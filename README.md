@@ -3,12 +3,12 @@
 </p>
 
 ## Hi there 👋
-I am computer engineering student 👩‍💻 at **Karadeniz Technical University**. I am here to share my studies, projects and some notes which are I've taken :nerd_face:. I study to learn new technologies and programming languages.. <br>
-I am an ıntern at **StajOkulu** Internship Program. I learn new things thanks to this program and I want to improve my programming skills 💻. <br>
+I am computer engineering student 👩‍💻 at **Karadeniz Technical University**. I am here to share my studies, projects and some notes which are I've taken :nerd_face:. I study to learn new technologies and programming languages.. 💻<br>
+
 
 ### Languages:
 <p align="left">
-  📌<b>C, C++, JAVA, HTML, CSS, SQL </b> <br><br>
+  📌<b>C, C++, JAVA, SQL, PL/SQL, JAVASCRIPT, HTML, CSS </b> <br><br>
 ➡I' m studying to improve my mobile and web development skills 🐱‍💻.
 </p>
 

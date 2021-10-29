@@ -3,20 +3,19 @@
 </p>
 
 ## Hi there 👋
-I am computer engineering student 👩‍💻 at **Karadeniz Technical University**. I am here to share my studies, projects and some notes which are I've taken :nerd_face:. I study to learn new technologies and programming languages.. 💻<br>
+I am a computer engineering student 👩‍💻 at **Karadeniz Technical University**. I am here to share my studies, projects and some notes which are I've taken :nerd_face:. I study to learn new technologies and programming languages.. 💻<br>
 
 
 ### Languages:
 <p align="left">
-  📌<b>C, C++, JAVA, SQL, PL/SQL, JAVASCRIPT, HTML, CSS </b> <br><br>
-➡I' m studying to improve my mobile and web development skills 🐱‍💻.
+  📌<b>PYTHON, KOTLIN, JAVA, C, C++, SQL, PL/SQL, JAVASCRIPT, HTML, CSS </b> <br><br>
+➡I' m studying to improve my mobile and programming language development skills 🐱‍💻.
 </p>
 
 ### Contact me :
 <p align="center">
   <a href="mailto:ayseyalcinkaya99@gmail.com" target="_blank"><img width="25px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
   <a href="https://www.linkedin.com/in/ayse-yalcinkaya/" target="_blank"><img width="25px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-  <a href="https://www.instagram.com/ayseyykaya/" target="_blank"><img width="25px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 </p> <br><br>
 
 
@@ -26,10 +25,7 @@ I am computer engineering student 👩‍💻 at **Karadeniz Technical Universit
 
 <p align="center">I want to learn new things and study more.. :octocat:</p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ayseyk&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p><br>
-
-<h4 align="right">Visitor's count :eyes:</h4>
-<p align="right"><img src="https://profile-counter.glitch.me/{ayseyk}/count.svg" alt="ayseyk" :: Visitor's Count" /></p>
-  
+ 
 <img alt="ViewCount" src="https://views.whatilearened.today/views/github/ayseyk/ayseyk.svg" />
 
 

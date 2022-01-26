@@ -14,9 +14,9 @@ Ben Ayşe. Karadeniz Teknik Üniversitesi Bilgisayar Mühendisliği öğrencisiy
 
 ### İletişim :
 <p align="center">
-  <a href="mailto:ayseyalcinkaya99@gmail.com" target="_blank"><img width="25px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
-  <a href="https://www.linkedin.com/in/ayse-yalcinkaya/" target="_blank"><img width="25px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/><
-  <a href="https://www.youtube.com/channel/UCV-Hwa7o7aMxOjoydebiF-A" target="_blank"><img width="35px" align="left" src="https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc"/>
+  <a href="mailto:ayseyalcinkaya99@gmail.com" target="_blank"><img width="25px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/></a>
+  <a href="https://www.linkedin.com/in/ayse-yalcinkaya/" target="_blank"><img width="25px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
+  <a href="https://www.youtube.com/channel/UCV-Hwa7o7aMxOjoydebiF-A" target="_blank"><img width="35px" align="left" src="https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc"/></a>
 </p>
     
 <br>

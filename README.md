@@ -3,7 +3,10 @@
 </p>
 
 ## MERHABA 👋
-Ben Ayşe. Karadeniz Teknik Üniversitesi Bilgisayar Mühendisliği öğrencisiyim 👩‍💻 Yaptığım projeleri ve diller üzerindeki giriş çalışmalarımı burada tutuyorum. Bazı programlama dillerine giriş yapmak ve yorum satırlarıma maruz kalmak için repolarımı inceleyebilirsiniz.😊 <br>
+◾ Ben Ayşe. Karadeniz Teknik Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim 👩‍💻 <br>
+◾ Turkcell Geleceği Yazanlar Programında Kotlin ile Android Programlama üzerine bir eğitim alıyorum💻 Bu günlerde takım arkadaşımla beraber Derin Öğrenme ile meyvelerin tazelik durumunu tespit eden bir mobil proje üzerinde çalışıyorum. Projemizin Python🐍 kullanarak kodladığımız derin öğrenme kısmının kodlarını repolarım arasında bulabilirsiniz.
+
+◾ Yaptığım projeleri ve diller üzerindeki giriş çalışmalarımı burada tutuyorum. Bazı programlama dillerine giriş yapmak ve yorum satırlarıma maruz kalmak için repolarımı inceleyebilirsiniz.😊 <br>
 
 
 ### Programlama Dilleri:

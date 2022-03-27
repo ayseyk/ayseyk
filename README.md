@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ayseyk/ayseyk/blob/main/photo.gif" width="500">
+  <img src="https://github.com/ayseyk/ayseyk/blob/main/android.gif" width="500">
 </p>
 
 ## MERHABA 👋

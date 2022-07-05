@@ -4,7 +4,7 @@
 
 ## MERHABA 👋
 ◾ Ben Ayşe. Karadeniz Teknik Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim 👩‍💻 <br>
-◾ Turkcell Geleceği Yazanlar Programında Kotlin ile Android Programlama üzerine bir eğitim alıyorum💻 Bu günlerde takım arkadaşımla beraber Derin Öğrenme ile meyvelerin tazelik durumunu tespit eden bir mobil proje üzerinde çalışıyorum. Projemizin Python🐍 ile kodladığımız derin öğrenme kısmını repolarım arasında bulabilirsiniz.
+◾ Turkcell Geleceği Yazanlar Programında Kotlin ile Android Programlama üzerine bir eğitim aldım ve bunun devamında Turkcell' de Android Development üzerine staj yapıyorum💻 Bitirme çalışmamda takım arkadaşımla beraber Derin Öğrenme ile meyvelerin tazelik durumunu tespiti üzerine çalıştığım projenin Python🐍 ile kodladığımız derin öğrenme kısmını ve projenin tamamını repolarım arasında bulabilirsiniz.
 
 ◾ Yaptığım projeleri ve diller üzerindeki giriş çalışmalarımı burada tutuyorum. Bazı programlama dillerine giriş yapmak ve yorum satırlarıma maruz kalmak için repolarımı inceleyebilirsiniz.😊 <br>
 
